@@ -1,0 +1,44 @@
+body{
+	background: green;
+	 position: center;
+}
+p{
+	color: red;
+	font-family: Comic Sans MS;
+	font-size: 50px;
+	 position: center;
+
+
+}
+tr,th,table{
+	font-family: Somic Sans MS;
+   	border: 3px solid black;
+   	  margin-top: 200px;
+     width: 100px;
+  height: 100px;
+ margin-left:35%;
+  margin-right:50%;
+
+
+}
+input{
+	font-size: 40px;
+	border-radius: 40px;
+	font-family: Comic Sans MS;
+
+}
+	
+h1{
+  font-family: 'Rubik One', sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  background: linear-gradient(43deg, #0B2349 31%, #0D61BC 69%, #8AA9D6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  display: table;
+  margin: 20px auto;
+  color: gradient;
+	font-family:Comic Sans MS;
+	font-size: 30px;
+}
